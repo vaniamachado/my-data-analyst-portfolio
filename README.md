@@ -22,13 +22,18 @@ I have strong skills in **Power BI, Excel, Python, and SQL**, and this repositor
 
 ## 📊 Projects
 
-### 1️⃣ Product Sales Analysis
-- **Tools:** Python 
-- **Description:** Identify the best-performing sales method, balancing revenue and efficiency to sell the new product effectively. 
-- **Link:** [Dashboard Link](#)  
-![Sales Dashboard](04_Images/sales_dashboard.png)
-
----
+### 🐍 1️⃣ Product Sales Analysis — Pens & Printers
+- **Tools:** Python (Pandas, Matplotlib, Seaborn)  
+- **Description:**  
+  An in-depth analysis of sales data for a new office stationery product line — pens and printers — to evaluate the impact of different sales methods (**Email, Call, and Email + Call**) on revenue.  
+  This project includes:
+  - Data cleaning and preparation using **Pandas**  
+  - Exploratory data analysis (EDA) and visualization with **Matplotlib & Seaborn**  
+  - Statistical comparison of sales methods  
+  - Recommendations for optimizing future sales strategies  
+- **Goal:** Identify which sales approach yields the highest revenue and engagement.  
+- **Link:** [View Python Notebook](#)  
+![Python Analysis](04_Images/python_sales_analysis.png)
 
 ## 🔗 Portfolio & Contact
 
@@ -39,4 +44,6 @@ I have strong skills in **Power BI, Excel, Python, and SQL**, and this repositor
 ---
 
 > This repository is a work in progress — more projects and dashboards coming soon!
+
+
 
