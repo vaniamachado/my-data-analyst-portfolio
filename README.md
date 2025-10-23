@@ -32,8 +32,8 @@ I have strong skills in **Power BI, Excel, Python, and SQL**, and this repositor
   - Statistical comparison of sales methods  
   - Recommendations for optimizing future sales strategies  
 - **Goal:** Identify which sales approach yields the highest revenue and engagement.  
-- **Link:** [View Python Notebook](#)  
-![Python Analysis](04_Images/python_sales_analysis.png)
+- **Notebook Link:** [View Project](https://github.com/vaniasusername/Product-Sales-Analysis-Pens-Printers)  
+- **Optional Image:** ![Python Analysis](04_Images/python_sales_analysis.png)
 
 ## 🔗 Portfolio & Contact
 
@@ -44,6 +44,3 @@ I have strong skills in **Power BI, Excel, Python, and SQL**, and this repositor
 ---
 
 > This repository is a work in progress — more projects and dashboards coming soon!
-
-
-
