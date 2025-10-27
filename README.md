@@ -22,7 +22,7 @@ I have strong skills in **Power BI, Excel, Python, and SQL**, and this repositor
 
 ## 📊 Projects
 
-### 🐍 1️⃣ Product Sales Analysis — Pens & Printers
+### 🐍 1️⃣ Product Sales Analysis, Pens & Printers — Python Project
 - **Tools:** Python (Pandas, Matplotlib, Seaborn)  
 - **Description:**  
   An in-depth analysis of sales data for a new office stationery product line — pens and printers — to evaluate the impact of different sales methods (**Email, Call, and Email + Call**) on revenue.  
@@ -33,14 +33,29 @@ I have strong skills in **Power BI, Excel, Python, and SQL**, and this repositor
   - Recommendations for optimizing future sales strategies  
 - **Goal:** Identify which sales approach yields the highest revenue and engagement.  
 - **Notebook Link:** [View Project](https://github.com/vaniamachado/Product-Sales-Analysis-Pens-Printers)  
-- **Optional Image:** ![Python Analysis](04_Images/python_sales_analysis.png)
 
+
+### 🧠 2️⃣ Analyzing Students’ Mental Health — SQL Project
+- **Tools:** PostgreSQL  
+- **Description:**  
+  This project explores mental health among international and domestic students at a Japanese university, based on a 2018 survey. The analysis investigates whether studying abroad affects mental health and how factors like **social connectedness**, **acculturative stress**, and **length of stay** influence well-being.  
+  Key steps include:
+  - Writing SQL queries to calculate averages and counts by length of stay  
+  - Analyzing **depression (PHQ-9)**, **social connectedness (SCS)**, and **acculturative stress (ASISS)** scores  
+  - Drawing insights into how time spent abroad impacts student mental health  
+- **Goal:** Understand the relationship between length of stay and mental health indicators among international students.  
+- **Notebook or Script Link:** [View Project](https://github.com/vaniamachado/Analyzing-Students-Mental-Health)  
+  
 ## 🔗 Portfolio & Contact
 
 - **DataCamp Portfolio:** [Click Here](https://www.datacamp.com/portfolio/vaniapereiramachado)  
-- **Email:** vaniapereiramachado@gmail.com  
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)  
 
 ---
 
 > This repository is a work in progress — more projects and dashboards coming soon!
+
+
+
+
+
