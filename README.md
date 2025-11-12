@@ -45,7 +45,26 @@ I have strong skills in **Power BI, Excel, Python, and SQL**, and this repositor
   - Drawing insights into how time spent abroad impacts student mental health  
 - **Goal:** Understand the relationship between length of stay and mental health indicators among international students.  
 - **Notebook or Script Link:** [View Project](https://github.com/vaniamachado/Analyzing-Students-Mental-Health)  
-  
+
+### 💼 3️⃣ HR Analytics, Atlas Labs — Power BI Project
+- **Tools:** Power BI | Power Query | DAX | Data Modeling | Data Storytelling  
+- **Description:**  
+  An interactive Power BI case study analyzing data from **1,470 employees** at a fictitious tech company, **Atlas Labs**.  
+  The goal was to **monitor key HR metrics**, explore **diversity and performance**, and identify **drivers of employee attrition**.  
+  Key steps included:
+  - Building a **Kimball-modeled snowflake schema** with 1 fact table and 5 dimension tables  
+  - Developing DAX measures for **attrition rate**, **performance**, and **employee satisfaction**  
+  - Designing four interactive report pages:
+    - **Overview** – KPIs, hiring trends, and department activity  
+    - **Demographics** – age, gender, ethnicity, and diversity insights  
+    - **Performance Tracker** – self and manager review analysis over time  
+    - **Attrition** – attrition by department, travel, overtime, and tenure  
+- **Goal:** Empower HR leaders with a data-driven dashboard to reduce attrition and improve workforce well-being.  
+- **Dashboard Preview:**  
+  ![HR Analytics Dashboard Preview](A_storyboard_of_a_Power_BI_dashboard_design_named_.png)  
+- **Project Link:** [View Project](https://github.com/vaniamachado/HR-Analytics-PowerBI-AtlasLabs)  
+
+ 
 ## 🔗 Portfolio & Contact
 
 - **DataCamp Portfolio:** [Click Here](https://www.datacamp.com/portfolio/vaniapereiramachado)  
