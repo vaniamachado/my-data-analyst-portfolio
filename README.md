@@ -9,9 +9,9 @@ I have strong skills in **Power BI, Excel, Python, and SQL**, and this repositor
 ## 🛠️ Skills 
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-%230076D6?style=for-the-badge&logo=power-bi&logoColor=white)](https://powerbi.microsoft.com/) 
-[![Excel](https://img.shields.io/badge/Excel-%231D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 [![SQL](https://img.shields.io/badge/SQL-%23007ACC?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Excel](https://img.shields.io/badge/Excel-%231D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 
 ---
@@ -61,9 +61,9 @@ I have strong skills in **Power BI, Excel, Python, and SQL**, and this repositor
     - **Attrition** – attrition by department, travel, overtime, and tenure  
 - **Goal:** Empower HR leaders with a data-driven dashboard to reduce attrition and improve workforce well-being.  
 - **Dashboard Preview:**  
-  ![HR Analytics Dashboard Preview](A_storyboard_of_a_Power_BI_dashboard_design_named_.png)  
-- **Project Link:** [View Project](https://github.com/vaniamachado/HR-Analytics-PowerBI-AtlasLabs)  
+  ![HR Analytics Dashboard Preview](hr-analytics-atlas-lab-preview.gif)
 
+- **Project Link:** [View Project](https://github.com/vaniamachado/hr-analytics-atlas-lab)  
  
 ## 🔗 Portfolio & Contact
 
