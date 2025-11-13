@@ -22,7 +22,7 @@ I have strong skills in **Power BI, Excel, Python, and SQL**, and this repositor
 
 ## 📊 Projects
 
-### 🐍 1️⃣ Product Sales Analysis — Pens & Printers
+### 🐍 1️⃣ Product Sales Analysis, Pens & Printers — Python Project
 - **Tools:** Python (Pandas, Matplotlib, Seaborn)  
 - **Description:**  
   An in-depth analysis of sales data for a new office stationery product line — pens and printers — to evaluate the impact of different sales methods (**Email, Call, and Email + Call**) on revenue.  
@@ -33,14 +33,48 @@ I have strong skills in **Power BI, Excel, Python, and SQL**, and this repositor
   - Recommendations for optimizing future sales strategies  
 - **Goal:** Identify which sales approach yields the highest revenue and engagement.  
 - **Notebook Link:** [View Project](https://github.com/vaniamachado/Product-Sales-Analysis-Pens-Printers)  
-- **Optional Image:** ![Python Analysis](04_Images/python_sales_analysis.png)
 
+
+### 🧠 2️⃣ Analyzing Students’ Mental Health — SQL Project
+- **Tools:** PostgreSQL  
+- **Description:**  
+  This project explores mental health among international and domestic students at a Japanese university, based on a 2018 survey. The analysis investigates whether studying abroad affects mental health and how factors like **social connectedness**, **acculturative stress**, and **length of stay** influence well-being.  
+  Key steps include:
+  - Writing SQL queries to calculate averages and counts by length of stay  
+  - Analyzing **depression (PHQ-9)**, **social connectedness (SCS)**, and **acculturative stress (ASISS)** scores  
+  - Drawing insights into how time spent abroad impacts student mental health  
+- **Goal:** Understand the relationship between length of stay and mental health indicators among international students.  
+- **Notebook or Script Link:** [View Project](https://github.com/vaniamachado/Analyzing-Students-Mental-Health)  
+
+### 💼 3️⃣ HR Analytics, Atlas Labs — Power BI Project
+- **Tools:** Power BI | Power Query | DAX | Data Modeling | Data Storytelling  
+- **Description:**  
+  An interactive Power BI case study analyzing data from **1,470 employees** at a fictitious tech company, **Atlas Labs**.  
+  The goal was to **monitor key HR metrics**, explore **diversity and performance**, and identify **drivers of employee attrition**.  
+  Key steps included:
+  - Building a **Kimball-modeled snowflake schema** with 1 fact table and 5 dimension tables  
+  - Developing DAX measures for **attrition rate**, **performance**, and **employee satisfaction**  
+  - Designing four interactive report pages:
+    - **Overview** – KPIs, hiring trends, and department activity  
+    - **Demographics** – age, gender, ethnicity, and diversity insights  
+    - **Performance Tracker** – self and manager review analysis over time  
+    - **Attrition** – attrition by department, travel, overtime, and tenure  
+- **Goal:** Empower HR leaders with a data-driven dashboard to reduce attrition and improve workforce well-being.  
+- **Dashboard Preview:**  
+  ![HR Analytics Dashboard Preview](A_storyboard_of_a_Power_BI_dashboard_design_named_.png)  
+- **Project Link:** [View Project](https://github.com/vaniamachado/HR-Analytics-PowerBI-AtlasLabs)  
+
+ 
 ## 🔗 Portfolio & Contact
 
 - **DataCamp Portfolio:** [Click Here](https://www.datacamp.com/portfolio/vaniapereiramachado)  
-- **Email:** vaniapereiramachado@gmail.com  
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)  
 
 ---
 
 > This repository is a work in progress — more projects and dashboards coming soon!
+
+
+
+
+
