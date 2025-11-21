@@ -22,7 +22,7 @@ I have strong skills in **Power BI, Excel, Python, and SQL**, and this repositor
 
 ## 📊 Projects
 
-### 🐍 1️⃣ Product Sales Analysis, Pens & Printers — Python Project
+### 🐍 Product Sales Analysis, Pens & Printers — Python Project
 - **Tools:** Python (Pandas, Matplotlib, Seaborn)  
 - **Description:**  
   An in-depth analysis of sales data for a new office stationery product line — pens and printers — to evaluate the impact of different sales methods (**Email, Call, and Email + Call**) on revenue.  
@@ -32,11 +32,11 @@ I have strong skills in **Power BI, Excel, Python, and SQL**, and this repositor
   - Statistical comparison of sales methods  
   - Recommendations for optimizing future sales strategies  
 - **Goal:** Identify which sales approach yields the highest revenue and engagement.  
-- **Notebook Link:** [View Project](https://github.com/vaniamachado/Product-Sales-Analysis-Pens-Printers)  
+[View Project](https://github.com/vaniamachado/Product-Sales-Analysis-Pens-Printers)  
 
 
-### 🧠 2️⃣ Analyzing Students’ Mental Health — SQL Project
-- **Tools:** PostgreSQL  
+### 🧠 Analyzing Students’ Mental Health — SQL Project
+- **Tools:** PostgreSQL | Python
 - **Description:**  
   This project explores mental health among international and domestic students at a Japanese university, based on a 2018 survey. The analysis investigates whether studying abroad affects mental health and how factors like **social connectedness**, **acculturative stress**, and **length of stay** influence well-being.  
   Key steps include:
@@ -44,9 +44,9 @@ I have strong skills in **Power BI, Excel, Python, and SQL**, and this repositor
   - Analyzing **depression (PHQ-9)**, **social connectedness (SCS)**, and **acculturative stress (ASISS)** scores  
   - Drawing insights into how time spent abroad impacts student mental health  
 - **Goal:** Understand the relationship between length of stay and mental health indicators among international students.  
-- **Notebook or Script Link:** [View Project](https://github.com/vaniamachado/Analyzing-Students-Mental-Health)  
+[View Project](https://github.com/vaniamachado/Analyzing-Students-Mental-Health)  
 
-### 💼 3️⃣ HR Analytics, Atlas Labs — Power BI Project
+### 💼 HR Analytics, Atlas Labs — Power BI Project
 - **Tools:** Power BI | Power Query | DAX | Data Modeling | Data Storytelling  
 - **Description:**  
   An interactive Power BI case study analyzing data from **1,470 employees** at a fictitious tech company, **Atlas Labs**.  
@@ -62,8 +62,7 @@ I have strong skills in **Power BI, Excel, Python, and SQL**, and this repositor
 - **Goal:** Empower HR leaders with a data-driven dashboard to reduce attrition and improve workforce well-being.  
 - **Dashboard Preview:**  
   ![HR Analytics Dashboard Preview](hr-analytics-atlas-lab-preview.gif)
-
-- **Project Link:** [View Project](https://github.com/vaniamachado/hr-analytics-atlas-lab)  
+[View Project](https://github.com/vaniamachado/hr-analytics-atlas-lab)  
  
 ## 🔗 Portfolio & Contact
 
