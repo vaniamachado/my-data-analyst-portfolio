@@ -17,8 +17,8 @@ I have strong skills in **Power BI, Excel, Python, and SQL**, and this repositor
 ---
 
 ## Certifications
-[![DataCamp Professional Data Analyst](https://img.shields.io/badge/DataCamp-Professional%20Data%20Analyst-brightgreen)](https://www.datacamp.com/profile)
-[![Power BI PL-300](https://img.shields.io/badge/Microsoft-PL--300%20Certified-blue)](https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst/)
+[![DataCamp Professional Data Analyst](https://img.shields.io/badge/DataCamp-Professional%20Data%20Analyst-brightgreen)](https://www.datacamp.com/certificate/DA0027508810449)
+[![Power BI PL-300](https://img.shields.io/badge/Microsoft-PL--300%20Certified-blue)](https://learn.microsoft.com/en-us/users/vaniapmachado/credentials/611624be7428e3ec)
 
 ## 📊 Projects
 
