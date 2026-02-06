@@ -63,6 +63,18 @@ I have strong skills in **Power BI, Excel, Python, and SQL**, and this repositor
 - **Dashboard Preview:**  
   ![HR Analytics Dashboard Preview](hr-analytics-atlas-lab-preview.gif)
 [View Project](https://github.com/vaniamachado/hr-analytics-atlas-lab)  
+
+
+### 🏥 Healthcare Analytics, Healthstat — Power BI Project
+- **Tools:** Power BI | Power Query | DAX | Data Modeling | Data Storytelling  
+- **Description:** 
+An interactive Power BI case study analyzing data from **990 patients** from a healthcare consulting firm, **Healthstat**.  
+- **Goal:**  The goal was to identify key drivers of **hospital efficiency**, with a focus on **Length of Stay (LOS)** and **cost per discharge**.
+- **Dashboard Preview:**  
+  ![](dashboard_healthcare.gif)
+[View Project](https://github.com/vaniamachado/healthcare-analytics-healthstat) 
+
+
  
 ## 🔗 Portfolio & Contact
 
